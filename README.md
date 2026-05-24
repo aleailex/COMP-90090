@@ -2,21 +2,20 @@
 
 A Jupyter Notebook project for computational work and analysis.
 
-## 📋 Overview
+## Overview
 
 This repository contains Jupyter notebooks with computational implementations and data analysis for COMP-90090 coursework.
 
-## 📁 Contents
+## Contents
 
 - **TAH.ipynb** - Main notebook containing analysis and implementations
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
-- Python 3.7 or higher
-- Jupyter Notebook or JupyterLab
-- Required Python packages (see Installation section)
+- Python 3.11
+- Google Colab
 
 ### Installation
 
@@ -36,11 +35,11 @@ pip install jupyter numpy pandas matplotlib scipy
 jupyter notebook
 ```
 
-## 📖 Usage
+## Usage
 
 Open the `.ipynb` files in Jupyter Notebook or JupyterLab to view and run the code cells.
 
-## 📝 Project Structure
+## Project Structure
 
 ```
 COMP-90090/
@@ -48,26 +47,5 @@ COMP-90090/
 └── TAH.ipynb
 ```
 
-## 🔧 Requirements
-
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- SciPy
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-[aleailex](https://github.com/aleailex)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
----
 
 **Last Updated:** May 24, 2026
